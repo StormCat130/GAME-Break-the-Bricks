@@ -1,2 +1,2 @@
-# GAME-Breack-the-Bricks
+# GAME-Break-the-Bricks
 GAME
